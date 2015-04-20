@@ -38,3 +38,8 @@ void loop(){
 }
 
 ```
+Reemplazar 'array8x8' por el nombre que desees utilizar para el arreglo de bytes que se declara.
+
+#Recomendaciones
+- Preferir la utilización del método setRow() que es mucho más eficiente que el método setColumn().
+- Se puede utilizar el cálculo de columnas o filas con el método setRow() en el caso de que la matriz esté invertida.
