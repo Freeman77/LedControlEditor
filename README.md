@@ -23,7 +23,7 @@ void setup(){
   lc.shutdown(0,false);
   /* Configurar el brillo 0 - 15 */
   lc.setIntensity(0,1);
-  //Limpiar display
+  /* Limpiar display */
   lc.clearDisplay(0);
 }
 
