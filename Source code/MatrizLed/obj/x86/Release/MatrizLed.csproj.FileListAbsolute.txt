@@ -1,0 +1,38 @@
+E:\Dropbox\MatrizLed\MatrizLed\bin\Release\MatrizLed.exe.config
+E:\Dropbox\MatrizLed\MatrizLed\bin\Release\MatrizLed.exe
+E:\Dropbox\MatrizLed\MatrizLed\bin\Release\MatrizLed.pdb
+E:\Dropbox\MatrizLed\MatrizLed\obj\x86\Release\MainWindow.baml
+E:\Dropbox\MatrizLed\MatrizLed\obj\x86\Release\MainWindow.g.cs
+E:\Dropbox\MatrizLed\MatrizLed\obj\x86\Release\App.g.cs
+E:\Dropbox\MatrizLed\MatrizLed\obj\x86\Release\MatrizLed_MarkupCompile.cache
+E:\Dropbox\MatrizLed\MatrizLed\obj\x86\Release\MatrizLed.g.resources
+E:\Dropbox\MatrizLed\MatrizLed\obj\x86\Release\MatrizLed.Properties.Resources.resources
+E:\Dropbox\MatrizLed\MatrizLed\obj\x86\Release\MatrizLed.csproj.GenerateResource.Cache
+E:\Dropbox\MatrizLed\MatrizLed\obj\x86\Release\MatrizLed.exe
+E:\Dropbox\MatrizLed\MatrizLed\obj\x86\Release\MatrizLed.pdb
+E:\Dropbox\MatrizLed_mia\MatrizLed\bin\Release\MatrizLed.exe.config
+E:\Dropbox\MatrizLed_mia\MatrizLed\bin\Release\MatrizLed.exe
+E:\Dropbox\MatrizLed_mia\MatrizLed\bin\Release\MatrizLed.pdb
+E:\Dropbox\MatrizLed_mia\MatrizLed\obj\x86\Release\MainWindow.baml
+E:\Dropbox\MatrizLed_mia\MatrizLed\obj\x86\Release\MainWindow.g.cs
+E:\Dropbox\MatrizLed_mia\MatrizLed\obj\x86\Release\App.g.cs
+E:\Dropbox\MatrizLed_mia\MatrizLed\obj\x86\Release\MatrizLed_MarkupCompile.cache
+E:\Dropbox\MatrizLed_mia\MatrizLed\obj\x86\Release\MatrizLed.g.resources
+E:\Dropbox\MatrizLed_mia\MatrizLed\obj\x86\Release\MatrizLed.Properties.Resources.resources
+E:\Dropbox\MatrizLed_mia\MatrizLed\obj\x86\Release\MatrizLed.csproj.GenerateResource.Cache
+E:\Dropbox\MatrizLed_mia\MatrizLed\obj\x86\Release\MatrizLed.exe
+E:\Dropbox\MatrizLed_mia\MatrizLed\obj\x86\Release\MatrizLed.pdb
+C:\Users\Pablo Ascencio\Dropbox\MatrizLed_mia\MatrizLed\obj\x86\Release\Acerca.baml
+C:\Users\Pablo Ascencio\Dropbox\MatrizLed_mia\MatrizLed\obj\x86\Release\MainWindow.baml
+C:\Users\Pablo Ascencio\Dropbox\MatrizLed_mia\MatrizLed\obj\x86\Release\Acerca.g.cs
+C:\Users\Pablo Ascencio\Dropbox\MatrizLed_mia\MatrizLed\obj\x86\Release\MainWindow.g.cs
+C:\Users\Pablo Ascencio\Dropbox\MatrizLed_mia\MatrizLed\obj\x86\Release\App.g.cs
+C:\Users\Pablo Ascencio\Dropbox\MatrizLed_mia\MatrizLed\obj\x86\Release\MatrizLed.Properties.Resources.resources
+C:\Users\Pablo Ascencio\Dropbox\MatrizLed_mia\MatrizLed\obj\x86\Release\MatrizLed.csproj.GenerateResource.Cache
+C:\Users\Pablo Ascencio\Dropbox\MatrizLed_mia\MatrizLed\bin\Release\LedControlEditor.exe.config
+C:\Users\Pablo Ascencio\Dropbox\MatrizLed_mia\MatrizLed\bin\Release\LedControlEditor.exe
+C:\Users\Pablo Ascencio\Dropbox\MatrizLed_mia\MatrizLed\bin\Release\LedControlEditor.pdb
+C:\Users\Pablo Ascencio\Dropbox\MatrizLed_mia\MatrizLed\obj\x86\Release\LedControlEditor_MarkupCompile.cache
+C:\Users\Pablo Ascencio\Dropbox\MatrizLed_mia\MatrizLed\obj\x86\Release\LedControlEditor.g.resources
+C:\Users\Pablo Ascencio\Dropbox\MatrizLed_mia\MatrizLed\obj\x86\Release\LedControlEditor.exe
+C:\Users\Pablo Ascencio\Dropbox\MatrizLed_mia\MatrizLed\obj\x86\Release\LedControlEditor.pdb
