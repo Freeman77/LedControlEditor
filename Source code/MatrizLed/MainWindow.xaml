@@ -46,6 +46,7 @@
 
         <Button Content="Limpiar" Height="23" HorizontalAlignment="Left" Margin="396,39.617,0,0" Name="btnLimpiarMatriz" VerticalAlignment="Top" Width="75" Click="btnLimpiarMatriz_Click" />
         <Button Content="Llenar" Height="23" HorizontalAlignment="Left" Margin="396,67.617,0,0" Name="btnLlenarMatriz" VerticalAlignment="Top" Width="75" Click="btnLlenarMatriz_Click" />
+        <Button Content="Invertir" Height="23" HorizontalAlignment="Left" Margin="396,95.617,0,0" Name="btnInvertir" VerticalAlignment="Top" Width="75" Click="btnInvertirMatriz_Click" />
 
         <Grid VerticalAlignment="Top" HorizontalAlignment="Left" ShowGridLines="False" Width="360" Height="352" Margin="10,31.617,0,0" Name="gridMatriz" Background="Black">
             <Grid.ColumnDefinitions>

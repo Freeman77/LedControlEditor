@@ -1,8 +1,7 @@
-﻿using System.Collections.Generic;
+﻿using System;
 using System.Linq;
 using System.Windows;
 using System.Windows.Controls;
-using System;
 
 namespace MatrizLed
 {
@@ -159,6 +158,24 @@ namespace MatrizLed
             }
         }
 
+        private void btnInvertirMatriz_Click(object sender, RoutedEventArgs e)
+        {
+            this.ObjetoMatriz.invertirMatriz();
+            foreach (Button led in gridMatriz.Children.OfType<Button>())
+            {
+                if (this.ObjetoMatriz.obtenerEstado(led.Name))
+                {
+                    led.Style = RedLED;
+                }
+                else
+                {
+                    led.Style = GrayLED;
+                }
+                actualizarTotalColumna((led.Name.Substring(0, 1)).ToString());
+                actualizarTotalFila((led.Name.Substring(1, 1)).ToString());
+            }
+        }
+
         private void btnGenerarCodigo_Click(object sender, RoutedEventArgs e)
         {
             //Columnas
@@ -194,6 +211,8 @@ namespace MatrizLed
             dialogBox.Owner = this;
             Nullable<bool> dialogResult = dialogBox.ShowDialog();
         }
+
+        
 
         
 

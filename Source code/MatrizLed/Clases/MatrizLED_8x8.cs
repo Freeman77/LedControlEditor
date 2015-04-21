@@ -111,5 +111,12 @@ namespace MatrizLed
             }
         }
 
+        public void invertirMatriz()
+        {
+            foreach (LED led in Matriz8x8) {
+                led.cambiarEstado();
+            }
+        }
+
     }
 }
