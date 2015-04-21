@@ -46,3 +46,6 @@ Reemplazar 'array8x8' por el nombre que desees utilizar para el arreglo de bytes
 
 #Requisitos
 - Microsoft .NET Framework 3.5
+
+#Agradecimientos
+Idea original: Ivan "Toymaker" Jimenez
