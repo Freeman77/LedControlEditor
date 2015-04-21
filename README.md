@@ -1,6 +1,8 @@
 # Introducción
 Herramienta de creación de arreglos de bytes para la librería LedControl, utilizada popularmente en controladores de matrices LED MAX7221 y MAX7219.
 
+Información librería LedControl: http://playground.arduino.cc/Main/LedControl
+
 # Uso
 Para utilizar el arreglo que genera la herramienta es necesario incluir las siguientes porciones de código en el sketch de Arduino:
 
