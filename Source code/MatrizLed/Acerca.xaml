@@ -23,7 +23,7 @@
             <Label Grid.Column="1" Grid.Row="2" Content=":" HorizontalAlignment="Left" VerticalAlignment="Top"/>
             <Label Grid.Column="2" Grid.Row="1" Content="Ivan &quot;Toymaker&quot; Jimenez" HorizontalAlignment="Left" VerticalAlignment="Top"/>
             <Label Grid.Column="2" Grid.Row="2" Content="Pablo Ascencio" HorizontalAlignment="Left" VerticalAlignment="Top"/>
-            <Label Grid.Column="0" Grid.Row="3" Grid.ColumnSpan="3" Content="Versión: 1.0.0" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+            <Label Grid.Column="0" Grid.Row="3" Grid.ColumnSpan="3" Content="Versión: 1.0.1" HorizontalAlignment="Left" VerticalAlignment="Top"/>
             <Label Grid.Column="0" Grid.Row="4" Grid.ColumnSpan="3" Content="©2015, distribuido bajo la licencia GNU/GPL." HorizontalAlignment="Left" VerticalAlignment="Top"/>
         </Grid>
 
