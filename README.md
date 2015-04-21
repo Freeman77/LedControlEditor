@@ -4,7 +4,7 @@ Herramienta de creación de arreglos de bytes para la librería LedControl, util
 # Uso
 Para utilizar el arreglo que genera la herramienta es necesario incluir las siguientes porciones de código en el sketch de Arduino:
 
-```
+```Arduino
 //Incluir referencia a la librería
 #include <LedControl.h>
 
