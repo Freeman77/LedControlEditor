@@ -18,7 +18,7 @@ Para utilizar el arreglo que genera la herramienta es necesario incluir las sigu
 LedControl lc=LedControl(12,11,10,1);
 
 //Declarar e instanciar el arreglo generado
-byte array8x8 = {60,66,169,133,133,169,66,60};
+byte array8x8[8] = {60,66,169,133,133,169,66,60};
 
 void setup(){
   /* Habilitar matriz */
